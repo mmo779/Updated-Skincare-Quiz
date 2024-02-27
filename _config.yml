@@ -22,7 +22,7 @@ title: Skincare Quiz
 email: shanonlb@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 
-baseurl: "/beets/" # the subpath of your site, e.g. /blog
+baseurl: "/Updated-Skincare-Quiz/" # the subpath of your site, e.g. /blog
 url: "https://mmo779.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  mmo779
