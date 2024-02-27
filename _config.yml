@@ -31,7 +31,8 @@ github_username:  mmo779
 theme: minima
 plugins:
   - jekyll-feed
-  header_pages:
+  
+header_pages:
   - contact.markdown
 
 # Exclude from processing.
